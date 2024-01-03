@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Sashankh&#39;s Profile</title>
+    <link>https://hugo-profile.netlify.app/blogs/</link>
+    <description>Recent content in Blogs on Sashankh&#39;s Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection - Launching a start-up</title>
+      <link>https://hugo-profile.netlify.app/blogs/cs3216_final/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0800</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/cs3216_final/</guid>
+      <description>CS3216 Learning Outcomes In the Fall of 2019, I took a truly transformational class CS3216 at the National University of Singapore. The class is no ordinary class - it asks more of you, and gives more to you. At the end of the class, I wrote out the following reflection of my learnings from the class, and I decided to re-produce it here because these are learnings that serve me well to this day!</description>
+    </item>
+    <item>
+      <title>Intro to Encryption</title>
+      <link>https://hugo-profile.netlify.app/blogs/encryption/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0100</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/encryption/</guid>
+      <description>The subject of Crytography has always been the subject of much media speculation and public interest, and has suffered the degree of distortion guaranteed of such topics. To an uninformed reader, it may appear that any meaningful understanding of Cryptography requires a strong mathematical background. While this is certainly true of those aspiring to work with such systems, some valuable insights and ideas are conveyed well regardless of mathematical training.</description>
+    </item>
+    <item>
+      <title>Reflection - Heading into CS3216</title>
+      <link>https://hugo-profile.netlify.app/blogs/cs3216_initial/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0800</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/cs3216_initial/</guid>
+      <description>CS3216: What I will learn In the Fall of 2019, I took a truly transformational class CS3216 at the National University of Singapore. The class is no ordinary class - it asks more of you, and gives more to you. At the start of the class, we were all asked to quickly write out our learning objectives in a written assignment. Though its raw and simple, I have reproduced that in the blog below.</description>
+    </item>
+    <item>
+      <title>Key Exchange</title>
+      <link>https://hugo-profile.netlify.app/blogs/public_key/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0100</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/public_key/</guid>
+      <description>Creating a Shared Secret In the previous section, we discussed the benefits of encrypting communications for the benefit of privacy. While this might seem sufficiently secure at a first glance, we will see that the practicalities of the real world demand the specification of a number of other schemes and processes in order to enable this encryption.&#xA;For example, the scheme discussed above (referred to as symmetric encryption) require Alice and Bob to share a secret key that no other party is aware of.</description>
+    </item>
+  </channel>
+</rss>

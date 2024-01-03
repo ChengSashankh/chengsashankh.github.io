@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Encryption on Sashankh&#39;s Profile</title>
+    <link>https://hugo-profile.netlify.app/tags/encryption/</link>
+    <description>Recent content in Encryption on Sashankh&#39;s Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2019 00:00:00 +0100</lastBuildDate>
+    <atom:link href="https://hugo-profile.netlify.app/tags/encryption/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to Encryption</title>
+      <link>https://hugo-profile.netlify.app/blogs/encryption/</link>
+      <pubDate>Sun, 06 Oct 2019 00:00:00 +0100</pubDate>
+      <guid>https://hugo-profile.netlify.app/blogs/encryption/</guid>
+      <description>The subject of Crytography has always been the subject of much media speculation and public interest, and has suffered the degree of distortion guaranteed of such topics. To an uninformed reader, it may appear that any meaningful understanding of Cryptography requires a strong mathematical background. While this is certainly true of those aspiring to work with such systems, some valuable insights and ideas are conveyed well regardless of mathematical training.</description>
+    </item>
+  </channel>
+</rss>
