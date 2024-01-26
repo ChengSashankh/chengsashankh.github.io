@@ -284,50 +284,104 @@ params:
     enable: false
     # title: "Custom Name"
     items:
-      - title: Hugo Profile
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
-        featured:
-          name: Demo
-          link: https://hugo-profile.netlify.app
+      - title: Reducing Sycophancy in Large Language Models
+        content: Research into using adversarial frameworks to reduce sycophancy in LLMs.
+        image: /images/coming_soon.png
+        #        featured:
+        #          name: Demo V2
+        #          link: https://hugo-profile-2.netlify.app
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fa fa-envelope
-            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/hugo-profile
-          - icon: fab fa-twitter
-            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
+          - "Hugging Face"
+          - "PyTorch"
+    #        links:
+    #          - icon: fab fa-github
+    #            url: https://github.com/gurusabarish/HugoProfileV2
+      - title: Deeno Search
+        content: Building a search engine from the basics. I've always wanted to do this.
+        image: /images/deeno_logo.png
+        featured:
+          name: Code
+          link: https://github.com/ChengSashankh/search
+        badges:
+          - "Angular 15"
+          - "Apache Spark"
+          - "Scala"
+          - "Redis"
+          - "Spring Boot"
+#        links:
+#          - icon: fa fa-envelope
+#            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+#          - icon: fab fa-github
+#            url: https://github.com/gurusabarish/hugo-profile
+#          - icon: fab fa-twitter
+#            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
+      - title: ctrl-f
+        content: Search a video for phrases (audio search + video search).
+        image: /images/ctrlf.png
         featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+          name: Hackathon Submission
+          link: https://devpost.com/software/find-and-seek-n0ejt9
         badges:
-          - "Django"
-          - "Bootstrap"
+          - "Nodejs"
+          - "Tesseract OCR"
+          - "Python"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+            url: https://github.com/ChengSashankh/ctrl-f
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: 3D Reconstruction using Computer Vision
+        content: Reconstruct the trajectory of a table tennis ball from footage.
+        image: /images/sfm_cv.png
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: Results
+          link: https://amrut-prabhu.github.io/table-tennis-ball-trajectory/
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "MATLAB"
+          - "Computer Vision"
+          - "Perspective Projection"
         links:
           - icon: fab fa-github
-            url: https://github.com/gurusabarish/HugoProfileV2
+            url: https://github.com/ChengSashankh/table-tennis-3d-reconstruction-cv
+
+      - title: vois
+        content: An iPad app to help budding musicians, seamlessly track their music progress and seek feedback.cp
+        image: /images/vois.png
+#        featured:
+#          name: About
+#          link: https://cs2103jan2018-w11-b3.github.io/main/
+        badges:
+          - "Swift"
+          - "iPad App"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/ChengSashankh/vois
+
+      - title: API Server Template
+        content: Create your API server skeleton using this quick and simple API Server Template
+        image: /images/apitemplate.png
+        #        featured:
+        #          name: About
+        #          link: https://cs2103jan2018-w11-b3.github.io/main/
+        badges:
+          - "ExpressJS"
+          - "Nodejs"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/ChengSashankh/quick-api-server
+
+      - title: Infinity Book
+        content: AddressBook Desktop Application for recruiters.
+        image: /images/infinitybook.png
+        featured:
+          name: About
+          link: https://cs2103jan2018-w11-b3.github.io/main/
+        badges:
+          - "Java"
+          - "Software Engineering Principles"
+        links:
+          - icon: fab fa-github
+            url: https://github.com/ChengSashankh/Infinity-Book
 
   #Contact
   contact:
