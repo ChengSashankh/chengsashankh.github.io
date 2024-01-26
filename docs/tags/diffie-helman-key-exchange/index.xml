@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diffie-Helman Key Exchange on Sashankh&#39;s Profile</title>
+    <link>https://chengsashankh.github.io/hugo-profile-portfolio/tags/diffie-helman-key-exchange/</link>
+    <description>Recent content in Diffie-Helman Key Exchange on Sashankh&#39;s Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://chengsashankh.github.io/hugo-profile-portfolio/tags/diffie-helman-key-exchange/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reflection - Launching a start-up</title>
+      <link>https://chengsashankh.github.io/hugo-profile-portfolio/blogs/cs3216_final/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0800</pubDate>
+      <guid>https://chengsashankh.github.io/hugo-profile-portfolio/blogs/cs3216_final/</guid>
+      <description>CS3216 Learning Outcomes In the Fall of 2019, I took a truly transformational class CS3216 at the National University of Singapore. The class is no ordinary class - it asks more of you, and gives more to you. At the end of the class, I wrote out the following reflection of my learnings from the class, and I decided to re-produce it here because these are learnings that serve me well to this day!</description>
+    </item>
+    <item>
+      <title>Key Exchange</title>
+      <link>https://chengsashankh.github.io/hugo-profile-portfolio/blogs/public_key/</link>
+      <pubDate>Fri, 05 Apr 2019 00:00:00 +0100</pubDate>
+      <guid>https://chengsashankh.github.io/hugo-profile-portfolio/blogs/public_key/</guid>
+      <description>Creating a Shared Secret In the previous section, we discussed the benefits of encrypting communications for the benefit of privacy. While this might seem sufficiently secure at a first glance, we will see that the practicalities of the real world demand the specification of a number of other schemes and processes in order to enable this encryption.&#xA;For example, the scheme discussed above (referred to as symmetric encryption) require Alice and Bob to share a secret key that no other party is aware of.</description>
+    </item>
+  </channel>
+</rss>
