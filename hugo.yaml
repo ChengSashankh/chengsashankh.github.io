@@ -332,7 +332,7 @@ params:
 
       - title: 3D Reconstruction using Computer Vision
         content: Reconstruct the trajectory of a table tennis ball from footage.
-        image: /images/sfm_cv.png
+        image: /images/sfm_cv.jpg
         featured:
           name: Results
           link: https://amrut-prabhu.github.io/table-tennis-ball-trajectory/
