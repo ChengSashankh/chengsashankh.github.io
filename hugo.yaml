@@ -281,7 +281,7 @@ params:
 
   # projects
   projects:
-    enable: false
+    enable: true
     # title: "Custom Name"
     items:
       - title: Reducing Sycophancy in Large Language Models
