@@ -154,7 +154,7 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software engineer with a passion for applied Machine Learning and distributed systems. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I used to be a senior engineer at VISA Singapore before I became at graduate student at Georgia Tech.  
+      I am a software engineer with a passion for applied Machine Learning and distributed systems, with a BS in Computer Science. I used to be a senior engineer at VISA Singapore before I became at graduate student at Georgia Tech.  
       I am a full-stack developer - I build web application frontends, APIs, batch jobs and data pipelines. I am currently working at the intersection of systems and applied Machine Learning.
     skills:
       enable: true
