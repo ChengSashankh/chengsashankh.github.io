@@ -284,12 +284,24 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      - title: Reducing Sycophancy in Large Language Models
-        content: Research into using adversarial frameworks to reduce sycophancy in LLMs.
+      - title: Accelerating Mixture of Experts Inference
+        content: Research into using novel pre-fetching strategy to accelerate MoE inference. In progress.
         image: /images/coming_soon.png
         #        featured:
         #          name: Demo V2
         #          link: https://hugo-profile-2.netlify.app
+        badges:
+          - "Hugging Face"
+          - "PyTorch"
+      #        links:
+      #          - icon: fab fa-github
+      #            url: https://github.com/gurusabarish/HugoProfileV2
+      - title: Reducing Sycophancy in Large Language Models
+        content: Using adversarial frameworks to reduce sycophancy in LLMs.
+        image: /images/coming_soon.png
+        featured:
+          name: Report
+          link: https://drive.google.com/file/d/1HolBuE_wrZ0hhz5knsRCQ6kO5u0Icmo6/view?usp=drive_link
         badges:
           - "Hugging Face"
           - "PyTorch"
@@ -300,8 +312,8 @@ params:
         content: Building a search engine from the basics. I've always wanted to do this.
         image: /images/deeno_logo.png
         featured:
-          name: Code
-          link: https://github.com/ChengSashankh/search
+          name: Demo
+          link: https://deeno.fyi
         badges:
           - "Angular 15"
           - "Apache Spark"
