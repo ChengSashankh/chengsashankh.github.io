@@ -308,6 +308,25 @@ params:
     #        links:
     #          - icon: fab fa-github
     #            url: https://github.com/gurusabarish/HugoProfileV2
+      - title: Distributed key-value store
+        content: Built a distributed key-value store from scratch using Paxos and 2PC using DSLabs Framework. Supported sharding, replication, consensus and transactions. Closed source code as requested by authors (available on request).
+        image: /images/deeno_logo.png
+#        featured:
+#          name: Demo
+#          link: https://deeno.fyi
+        badges:
+          - "Java"
+          - "Paxos"
+          - "2PC"
+          - "Consistency"
+          - "Primary-Backup"
+      #        links:
+      #          - icon: fa fa-envelope
+      #            url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
+      #          - icon: fab fa-github
+      #            url: https://github.com/gurusabarish/hugo-profile
+      #          - icon: fab fa-twitter
+      #            url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
       - title: Deeno Search
         content: Building a search engine from the basics. I've always wanted to do this.
         image: /images/deeno_logo.png
