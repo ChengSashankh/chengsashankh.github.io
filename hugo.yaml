@@ -310,7 +310,7 @@ params:
     #            url: https://github.com/gurusabarish/HugoProfileV2
       - title: Distributed key-value store
         content: Built a distributed key-value store from scratch using Paxos and 2PC using DSLabs Framework. Supported sharding, replication, consensus and transactions. Closed source code as requested by authors (available on request).
-        image: /images/deeno_logo.png
+        image: /images/database.png
 #        featured:
 #          name: Demo
 #          link: https://deeno.fyi
