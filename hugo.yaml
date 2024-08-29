@@ -287,9 +287,9 @@ params:
       - title: Accelerating Mixture of Experts Inference
         content: Research into using novel pre-fetching strategy to accelerate MoE inference. In progress.
         image: /images/coming_soon.png
-        #        featured:
-        #          name: Demo V2
-        #          link: https://hugo-profile-2.netlify.app
+        featured:
+          name: Paper
+          link: https://openreview.net/forum?id=o43eHjPEMO
         badges:
           - "Hugging Face"
           - "PyTorch"
