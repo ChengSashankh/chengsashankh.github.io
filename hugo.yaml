@@ -127,7 +127,7 @@ params:
     intro: "Hi, my name is"
     title: "Sashankh."
     subtitle: "I turn ideas into code."
-    content: "A passionate full-stack developer and data engineer. I build APIs, web apps and data pipelines."
+    content: "A passionate full-stack developer and Machine Learning Engineer. I build APIs, web apps and data pipelines."
     image: /images/profile_pic.png
     bottomImage:
       enable: true
@@ -172,6 +172,22 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      - job: "Machine Learning Engineer Intern"
+        company: "Kaliber Labs Inc"
+        companyUrl: "https://www.kaliber.ai/"
+        date: "May 2024 - Aug 2024"
+        info:
+          enable: false
+          content: ""
+        #        featuredLink:
+        #          enable: true
+        #          name: "View the project"
+        #          url: "https://example.com"
+        content: |-
+          Full-stack engineering and ML Engineering at Kaliber Labs, Santa Clara. 
+          1. Built a state-of-the-art annotation platform for medical video data, enabling powerful annotations to train Kaliber's core vision models. 
+          2. Sped-up inference of ensemble models (ONNX) with parallelization
+          3. Built a new multi-modal chat application from scratch for a sophisticated question-answering experience.
       - job: "Senior Software Engineer"
         company: "VISA"
         companyUrl: "https://visa.com"
